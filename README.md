@@ -105,7 +105,7 @@ These are detected automatically when the script runs.
 Run the script from the terminal:
 
 ```bash
-python3 GithubFollowTools.py [OPTIONS]
+python3 GithubFollowUnfollow.py [OPTIONS]
 ```
 
 ### Available Options
